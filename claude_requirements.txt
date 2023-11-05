@@ -1,0 +1,3 @@
+
+  "nodejs_requirements": ["aws-sdk"],
+  "javascript_requirements": []

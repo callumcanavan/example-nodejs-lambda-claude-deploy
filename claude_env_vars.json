@@ -1,0 +1,10 @@
+{
+    "AWS_VARS": [
+        "YOUR_ACCOUNT_ID",
+        "YOUR_API_ID",
+        "YOUR_REGION",
+        "YOUR_STAGE",
+        "YOUR_LAMBDA_EXECUTION_ROLE"
+    ],
+    "OTHER_VARS": []
+}
